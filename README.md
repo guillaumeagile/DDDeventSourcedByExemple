@@ -31,3 +31,9 @@ what we could use:
 - no ORM, only SQL builders 
 - DAPPER
 - Actor Model
+- Outbox Pattern [https://itnext.io/the-outbox-pattern-in-event-driven-asp-net-core-microservice-architectures-10b8d9923885]
+- aboslutely no hard dependencies, abstraction everywhere
+- lightweight HTTP infrastructure (no ASP.Net, 
+- discriminated unions, or even more better: Aggregates in F#
+- https://servicestack.net/ ?  https://github.com/ServiceStack/ServiceStack
+- gRPC more than JSON
