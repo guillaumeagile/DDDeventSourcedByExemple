@@ -25,5 +25,9 @@ Some ideas 'en vrac'
 what we could use:
 - https://martendb.io/introduction.html
 - mass transit
-- https://github.com/louthy/language-ext
+- asynchronicity
+- https://github.com/louthy/language-ext  (more functional style, monads everythere)
 - docker of course (no need to mention)
+- no ORM, only SQL builders 
+- DAPPER
+- Actor Model
